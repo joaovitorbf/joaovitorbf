@@ -7,7 +7,7 @@
 - [🎥 Created a script to search unsecure Netwave IP cameras on Shodan.](https://github.com/joaovitorbf/nwam)
 - [❎ Built a website for testing XSLT stylesheets (old old stuff) using SaxonJS on the frontend and backend.](https://github.com/joaovitorbf/xslt.info)
 - [📜 Constantly creating userscripts to enhance all sorts of websites.](https://github.com/joaovitorbf/userscripts)
-- [➕ And more...](https://github.com/joaovitorbf?tab=repositories)
+- [➕ And more...](https://github.com/joaovitorbf?tab=repositories&q=&type=&language=&sort=stargazers)
 
 Add me on Discord:  
 ![](https://dcbadge.vercel.app/api/shield/132835479497211904)
