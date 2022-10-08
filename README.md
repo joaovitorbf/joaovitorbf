@@ -1,6 +1,6 @@
 ### Hello, welcome to my GitHub profile 👋
 
-ℹ️ I'm a systems analyst in I.T. risk management, information systems student at UTFPR and a cybersecurity enthusiast. I host some small projects I did in my spare time here.
+ℹ️ I'm a systems analyst in IT risk management, information systems student at UTFPR and a cybersecurity enthusiast. I host some small projects I did in my spare time here.
 
 **Check out some of my cool stuff:**  
 - [💾 Reverse engineered the Devil May Cry savegame format to create a savegame editor.](https://github.com/joaovitorbf/dmcsaveeditor)
