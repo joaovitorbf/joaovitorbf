@@ -10,4 +10,4 @@
 - [➕ And more...](https://github.com/joaovitorbf?tab=repositories&q=&type=&language=&sort=stargazers)
 
 Add me on Discord:  
-![](https://dcbadge.vercel.app/api/shield/132835479497211904)
+[jvbf](https://discord.com/users/132835479497211904)
