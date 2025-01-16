@@ -1,6 +1,6 @@
 ### Hello, welcome to my GitHub profile 👋
 
-ℹ️ I'm a version control and GitHub Enterprise support systems analyst and a cybersecurity enthusiast. I host some small projects I have done in my spare time here.
+ℹ️ I'm a systems analyst focused on version control and GitHub Enterprise support, and I am also a cybersecurity enthusiast. I host some small projects I have done in my spare time here.
 
 **Check out some of my cool stuff:**  
 - [💾 Reverse engineered the Devil May Cry savegame format to create a savegame editor.](https://github.com/joaovitorbf/dmcsaveeditor)
