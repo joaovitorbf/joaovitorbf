@@ -1,7 +1,5 @@
 ### Hello, welcome to my GitHub profile 👋
 
-ℹ️ My main profile is now on Codeberg! Find me here: https://codeberg.org/jvbf
-
 **Check out some of my cool stuff:**  
 - [💾 Reverse engineered the Devil May Cry savegame format to create a savegame editor.](https://codeberg.org/jvbf/dmcsaveeditor)
 - [🎥 Created a script to search for insecure Netwave IP cameras on Shodan.](https://codeberg.org/jvbf/nwam)
